@@ -1,0 +1,88 @@
+nav {
+  font-family: 'Lemonada', cursive;
+}
+
+nav li {
+  font-weight: bold;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 4vw, 3rem);
+}
+
+span {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 2vw, 2rem);
+}
+
+.logo {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.2rem, 1.2vw, 1rem);
+}
+
+.logo span {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.8rem, 1.8vw, 1.2rem);
+}
+
+h1 {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-family: 'Bevan', cursive;
+}
+
+.ab-section {
+  font-family: 'Lemonada', cursive;
+}
+
+.ab-section p {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 1.6vw, 1.4rem);
+}
+
+em, h3 {
+  font-weight: bold;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1.2rem, 2.2vw, 2rem);
+}
+
+.ref {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.8rem, 1.4vw, 1.2rem);
+  font-family: 'Lemonada', cursive;
+}
+
+/* Team Page */
+
+.te-section {
+  font-family: 'Lemonada', cursive;
+}
+
+.te-article h2 {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+.te-article h4 {
+  font-family: 'Yaldevi', sans-serif;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.9rem, 1.5vw, 1.2rem);
+}
+
+.te-section p {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(0.8rem, 1.2vw, 1.1rem);
+}
+
+.te1-section p {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+.te1-section i {
+  font-size: 5rem;
+}
+
+footer {
+  font-family: 'Lemonada', cursive;
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(1rem, 1.6vw, 1.4rem);
+}
