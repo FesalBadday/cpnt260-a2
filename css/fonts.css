@@ -67,9 +67,14 @@ em, h3 {
   font-size: clamp(0.9rem, 1.5vw, 1.2rem);
 }
 
+.go-up {
+  /* clamp(MIN, VAL, MAX) */
+  font-size: clamp(2.5rem, 4vw, 3.5rem);
+}
+
 .te-section p {
   /* clamp(MIN, VAL, MAX) */
-  font-size: clamp(0.8rem, 1.2vw, 1.1rem);
+  font-size: clamp(1.1rem, 1.4vw, 1.3rem);
 }
 
 .te1-section p {
