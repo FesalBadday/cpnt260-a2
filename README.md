@@ -1,4 +1,4 @@
-# Services, Info, Team Members, or Product Page
+# Team Members Page
 
 ---
 
